@@ -1,0 +1,7 @@
+API design: shows weather of each province
+
+Showing list after calling
+- province code
+- province name (TH/EN)
+- temperature
+- population
